@@ -1,2 +1,39 @@
 steps to add new reseller
 
+1. login
+
+ssh root@38.242.203.241
+interstellar
+
+2. goto webapps directory
+
+cd /var/lib/tomcat9/webapps
+
+3. create application by reseller name
+
+cp sample.war <resellerName>.war
+
+( wait for 20 seconds )
+
+cd <resellerName>
+
+4. add reseller name record
+
+nano resellername.css
+
+( add reseller name in this file )
+
+5. save resellername.css
+
+6. run permission command
+
+chmod -R 755 .
+
+
+
+
+
+
+
+
+
