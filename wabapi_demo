@@ -1,0 +1,22 @@
+Demo number used: 93210 90387
+
+pricing: 
+
+a. 5000 only API
+b. 7000 API + single agent panel, single channel
+c. 15000 API + multi agent ( 10 users limit ) + multi channel
+
+
+1. API demo
+
+  open postman
+  open collection Whatsapp API Demo
+  show template and session messaging putting clients number
+
+
+2. Panel demo
+
+    go to https://whatsapp.omnidesk.in/
+
+    login using: prajesh@noesistech.com   Mumbai#100
+
